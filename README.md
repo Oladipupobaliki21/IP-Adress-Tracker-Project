@@ -52,14 +52,20 @@ This project was a great opportunity to practice several important web developme
 -Displaying the Map was difficult.
 
 # Overcome Challenge
-- Making use of resoures and watching videos.
+-Making use of resoures and watching videos.
+
 ---
 
 # Useful Resources
 - [Leaflet Documentation](https://leafletjs.com/reference.html) - Comprehensive documentation for the Leaflet mapping library.
 - [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Great resource for understanding how to use the Fetch API.
 
-
+---
 ## Links
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
-- Live Site URL: 
+- Live Site URL: https://ip-adress-tracker-project.vercel.app/
+
+---
+## Author
+- GitHub - https://github.com/Oladipupobaliki21
+- Linkedin- www.linkedin.com/in/oladipupo-bilikis-3745b325a
