@@ -48,11 +48,11 @@ This project was a great opportunity to practice several important web developme
   
 ---
 # Challenges Faced
--Fecthing the APIs was kind of hard for me.
+-Fetchhing the APIs was kind of hard for me.
 -Displaying the Map was difficult.
 
 # Overcome Challenge
--Making use of resoures and watching videos.
+-Making use of resources and watching videos.
 
 ---
 
