@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
     <title>IP Address Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+   <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -12,14 +16,36 @@
             <img src="images/background image.png">
         </div>
         <div class="header">
-             <h1>IP Address Tracker</h1>
+            <div>
+                 <h1>IP Address Tracker</h1>
+            </div>
+            
         <form id="ip-form">
             <input type="text" id="ip-input" placeholder="Enter IP address">
-            <button type="submit">Track</button>
+            <button type="submit">➤</button>
         </form>
         </div>
-       
-        <div id="result"></div>
+       <div class="info-section">
+        <div>
+            <p>IP ADDRESS</p>
+            <h2 id="ip">-</h2>
+        </div>
+         <div>
+            <p>LOCATION</p>
+            <h2 id="location">-</h2>
+        </div>
+         <div>
+            <p>TIMEZONE</p>
+            <h2 id="timezone">-</h2>
+        </div>
+         <div>
+            <p>ISP</p>
+            <h2 id="isp">-</h2>
+        </div>
+       </div>
+        <div id="map"></div>
+         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+         <script src="script.js"></script>
     </div>
 </body>
 </html>
